@@ -1,0 +1,5 @@
+Flow
+
+- UI will request clusterInfo
+- It will pull from server and save to db
+- On refresh It will fetch & sync from remote server
